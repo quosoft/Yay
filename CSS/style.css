@@ -1,8 +1,8 @@
 body
 
 {
-height: 100%;
-width: 100%;
+background-image: url(../images/background.png);
+background-size: cover;
 }
 
 #main-div
@@ -11,10 +11,8 @@ width: 100%;
 
 }
 
-#background-image
+#main-div-bottom
 
 {
-opacity: 0.5;
-height: 100%;
-width: 100%;
+    
 }
